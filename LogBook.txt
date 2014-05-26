@@ -6,15 +6,15 @@ Alamat GitHub	: https://github.com/Rick88/BeSpoke-Project
 Alamat Trello	: https://trello.com/b/3ACs3QRG/bespoke-project
 
 Anggota 1	:
-	Nama	: Erick Sumargo
+	Nama	: Erick Sumargo - Rick88
 	NIM	: 121113665
 
 Anggota 2	:
-	Nama	: Edinofri Karizal Caniago
+	Nama	: Edinofri Karizal Caniago - edinopli
 	NIM	: 121111354
 
 Anggota 3	:
-	Nama	: M. Reza Hidayat
+	Nama	: M. Reza Hidayat 
 	NIM	: 121111231
 ==================================================================
 
