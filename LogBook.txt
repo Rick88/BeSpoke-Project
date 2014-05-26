@@ -1,0 +1,41 @@
+================================================================
+Nama kelompok 	: SimSimi
+
+Judul Topik 	: Commview For WIFI
+Alamat GitHub	: https://github.com/Rick88/BeSpoke-Project
+Alamat Trello	: https://trello.com/b/3ACs3QRG/bespoke-project
+
+Anggota 1	:
+	Nama	: Erick Sumargo
+	NIM	: 121113665
+
+Anggota 2	:
+	Nama	: Edinofri Karizal Caniago
+	NIM	: 121111354
+
+Anggota 3	:
+	Nama	: M. Reza Hidayat
+	NIM	: 121111231
+==================================================================
+
+SPRINT
+------
+Sprint 1		:
+Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
+Scrummaster		: Erick Sumargo (121113665)
+Item Backlog		: Installasi software pendukung presentasi BeSpoke.js berupa : Node.js, Git, BeSpoke.js (generator), dan Source Tree
+
+Progress Harian
+---------------
+Tgl : 26/5/14
+Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan memulai instalasi software pendukung presentasi dengan menggunakan teknologi BeSpoke.js
+   berupa : Node.js dan Git
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan memulai instalasi software pendukung presentasi berupa : Node.js, Git, dan Bespoke.js
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mulai menginstal sebuah software pendukung presentasi saja yaitu Git
