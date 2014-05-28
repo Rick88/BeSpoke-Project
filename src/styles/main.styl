@@ -4,7 +4,7 @@
 
 slide_width = 640px
 slide_height = 480px
-slide_background = #eaeaea
+slide_background = #FFF
 
 slide_transition_length = .6s
 slide_transition_easing = ease
@@ -17,6 +17,9 @@ bullet_transition_easing = ease
 bullet_transition_translate_x = 16px
 
 // base
+@font-face
+  font-family:'custom-font'
+  src:url('/font/tertre-xbol.otf')format("opentype")
 
 *
   box-sizing: border-box
@@ -48,7 +51,6 @@ article
       overflow: visible
       position: static
     perspective: 600px
-
 .bespoke-slide
   transition:
     transform slide_transition_length slide_transition_easing,
@@ -80,10 +82,10 @@ article
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
+  transform: scale(1)
 
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
+  transform: scale(0.1)
   @media print
     transform: none
 
@@ -158,12 +160,16 @@ pre
 // content styles
 
 body
+
   font-family: helvetica, arial, sans-serif
   font-size: 18px
-  color: #404040
-
+  color: black
+h1,
+h2,
+h3
+  font-family:'custom-font',arial,sans-serif
 h1
-  font-size: 72px
+  font-size: 62px
   line-height: 82px
   letter-spacing: -2px
   margin-bottom: 16px
