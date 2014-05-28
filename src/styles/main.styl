@@ -2,7 +2,7 @@
 
 // variables!
 
-slide_width = 640px
+slide_width = 1000px
 slide_height = 480px
 slide_background = #FFF
 
@@ -52,11 +52,8 @@ article
       position: static
     perspective: 600px
 .bespoke-slide
-  transition:
-    transform slide_transition_length slide_transition_easing,
-    opacity slide_transition_length slide_transition_easing,
-    background slide_transition_length slide_transition_easing
-  transform-origin: 50% 50% 0
+  transition: all .8s ease
+  transform-origin: 50% 50% -400px
   backface-visibility: hidden
   display: flex
   flex-direction: column
@@ -70,7 +67,7 @@ article
   margin-top: (slide_height / 2) * -1
   left: 50%
   margin-left: (slide_width / 2) * -1
-  background: slide_background
+  background: #0089f3
   padding: 40px
   border-radius: 0
   @media print
@@ -82,10 +79,10 @@ article
     margin: 0
 
 .bespoke-before
-  transform: scale(1)
+  transform: rotateY(-45deg)
 
 .bespoke-after
-  transform: scale(0.1)
+  transform: rotateY(45deg)
   @media print
     transform: none
 
@@ -163,7 +160,7 @@ body
 
   font-family: helvetica, arial, sans-serif
   font-size: 18px
-  color: black
+  color: white
 h1,
 h2,
 h3
