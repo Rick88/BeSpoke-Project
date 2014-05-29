@@ -1,0 +1,46 @@
+================================================================
+Nama kelompok 	: SimSimi
+
+Judul Topik 	: Commview For WIFI
+Alamat GitHub	: https://github.com/Rick88/BeSpoke-Project
+Alamat Trello	: https://trello.com/b/3ACs3QRG/bespoke-project
+
+Anggota 1	:
+	Nama	: Erick Sumargo
+	NIM	: 121113665
+
+Anggota 2	:
+	Nama	: Edinofri Karizal Caniago
+	NIM	: 121111354
+
+Anggota 3	:
+	Nama	: M. Reza Hidayat
+	NIM	: 121111231
+==================================================================
+
+SPRINT
+------
+Sprint 1		:
+Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
+Scrummaster		: Erick Sumargo (121113665)
+Item Backlog		: Kustomasi awal template bespoke.js (main.styl)
+
+Progress Harian
+---------------
+Tgl : 29/5/14
+Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mendesain lanjutan dari jenis transform slide dan pemilihan jenis font yang akan dipakai.
+2. Semalam saya push template awal (default) main.styl dkk. ke repository github.
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam.
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mendesain lanjutan dari jenis transform slide
+2. Semalam saya mendesain pertama kali main.styl dan push.
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam.
+
+M. Reza Hidayat			:
+1. Hari ini saya akan memilih jenis font yang akan dipakai.
+2. Semalam saya mencari bahan presentasi.
+3. Saya memiliki kendala dalam perihal push bahan presentasi ke repository. (Belum Selesai)
