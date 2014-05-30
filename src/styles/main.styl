@@ -3,7 +3,7 @@
 // variables!
 
 slide_width = 1000px
-slide_height = 600px
+slide_height = 512px
 slide_background = #FFF
 
 slide_transition_length = .8s
@@ -21,6 +21,9 @@ bullet_transition_translate_x = 16px
   font-family:'custom-font'
   src:url('/font/Brawler.otf')format("opentype")
 
+@font-face
+  font-family:'p-font'
+  src:url('/font/GandhiSerif-Regular.otf')format("opentype")
 *
   box-sizing: border-box
   margin: 0
@@ -164,9 +167,9 @@ body
   color: white
 h1,
 h2,
-h3,
-h4
+h3
   font-family:'custom-font',arial,sans-serif
+  
 h1
   font-size: 62px
   line-height: 82px
@@ -192,15 +195,21 @@ ul
   list-style: none
 
 li
+  font-family: 'Open Sans'
   margin-bottom: 12px
+  font-size: 25px
 
 p
-  margin: 0 100px 12px
+  font-family: 'Open Sans'
+  font-size: 30px
+  margin: 0 0px 12px
   line-height: 22px
 
 a
   color: #0089f3
   text-decoration: none
+  
 ol
   li
-    text-align:left
+    list-style-type: none
+    text-align: center
