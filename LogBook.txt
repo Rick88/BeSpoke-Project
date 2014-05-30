@@ -25,22 +25,27 @@ Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
 Scrummaster		: Erick Sumargo (121113665)
 Item Backlog		: Kustomasi awal template bespoke.js (main.styl)
 
+Sprint 1		:
+Tgl. Pelaksanaan	: 30/5/14 - 02/6/14
+Scrummaster		: Muhammad Reza Hidayat (121111231)
+Item Backlog		: Mencari bahan presentasi & kustomasi awal index.jade
+
 Progress Harian
 ---------------
-Tgl : 29/5/14
+Tgl : 30/5/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mendesain lanjutan dari jenis transform slide dan pemilihan jenis font yang akan dipakai.
-2. Semalam saya push template awal (default) main.styl dkk. ke repository github.
-3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam.
+1. Hari ini saya akan mencari bahan presentasi (Pengertian) dan mengedit kedalam index.jade.
+2. Semalam saya mendesain lanjutan dari jenis transform slide dan font (Sprint sebelumnnya).
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
 
 Edinofri Karizal Caniago	:
-1. Hari ini saya akan mendesain lanjutan dari jenis transform slide
-2. Semalam saya mendesain pertama kali main.styl dan push.
-3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam.
+1. Hari ini saya akan mencari bahan presentasi (Manfaat) dan mengedit kedalam index.jade.
+2. Semalam saya mendesain lanjutan dari jenis transform slide (Sprint sebelumnnya).
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya akan memilih jenis font yang akan dipakai.
-2. Semalam saya mencari bahan presentasi.
-3. Saya memiliki kendala dalam perihal push bahan presentasi ke repository. (Belum Selesai)
+1. Hari ini saya akan mencari bahan presentasi [Manfaat lain (Hack)] dan mengedit kedalam index.jade.
+2. Semalam saya menentukan jenis font dipakai.
+3. Saya taidak memiliki kendala dalam pelaksanaan sprint semalam. (Selesai)
