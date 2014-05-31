@@ -25,27 +25,27 @@ Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
 Scrummaster		: Erick Sumargo (121113665)
 Item Backlog		: Kustomasi awal template bespoke.js (main.styl)
 
-Sprint 1		:
+Sprint 2		:
 Tgl. Pelaksanaan	: 30/5/14 - 02/6/14
 Scrummaster		: Muhammad Reza Hidayat (121111231)
 Item Backlog		: Mencari bahan presentasi & kustomasi awal index.jade
 
 Progress Harian
 ---------------
-Tgl : 30/5/14
+Tgl : 31/5/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mencari bahan presentasi (Pengertian) dan mengedit kedalam index.jade.
-2. Semalam saya mendesain lanjutan dari jenis transform slide dan font (Sprint sebelumnnya).
+1. Hari ini saya akan mencari bahan presentasi (Instalasi software CV) dan mengedit kedalam index.jade.
+2. Semalam saya mencari bahan presentasi(pengertian).
 3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
 
 Edinofri Karizal Caniago	:
-1. Hari ini saya akan mencari bahan presentasi (Manfaat) dan mengedit kedalam index.jade.
-2. Semalam saya mendesain lanjutan dari jenis transform slide (Sprint sebelumnnya).
+1. Hari ini saya akan mencari bahan presentasi (Instalasi software AirCrack) dan mengedit kedalam index.jade.
+2. Semalam saya mencari bahan presentasi (Manfaat pengggunaan CV).
 3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya akan mencari bahan presentasi [Manfaat lain (Hack)] dan mengedit kedalam index.jade.
-2. Semalam saya menentukan jenis font dipakai.
+1. Hari ini saya akan mengubah sprint Backlog (Trello) yang akan sedang dikerjakan.
+2. Semalam saya mencari bahan presentasi (Manfaat lain [Hacking]).
 3. Saya taidak memiliki kendala dalam pelaksanaan sprint semalam. (Selesai)
