@@ -38,7 +38,7 @@ Daily Scrum
 Erick Sumargo			:
 1. Hari ini saya akan mencari bahan presentasi lanjutan (Konfigurasi awal penggunaan CV).
 2. Semalam saya menncari bahan presentasi (Instalasi software CV).
-3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai) (Selesai)
+3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
 
 Edinofri Karizal Caniago	:
 1. Hari ini saya akan menyisipkan gambar pertama dalam index.jade.
