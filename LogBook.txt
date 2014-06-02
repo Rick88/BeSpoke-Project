@@ -32,20 +32,20 @@ Item Backlog		: Mencari bahan presentasi & kustomasi awal index.jade
 
 Progress Harian
 ---------------
-Tgl : 01/06/14
+Tgl : 02/06/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Konfigurasi awal penggunaan CV).
-2. Semalam saya menncari bahan presentasi (Instalasi software CV).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara menjalankan CV & Driver Installation Guide).
+2. Semalam saya akan mencari bahan presentasi lanjutan (Konfigurasi awal penggunaan CV).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
 
 Edinofri Karizal Caniago	:
 1. Hari ini saya akan menyisipkan gambar pertama dalam index.jade.
-2. Semalam saya mencari bahan presentasi (Instalasi software AirCrack) dan mengedit kedalam index.jade.
-3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+2. Semalam saya mencoba menyisipkan gambar ke dalam index.jade. (Gagal)
+3. Saya mengalami kendala dalam menyisipkan gambar ke dalam index.jade. (Belum Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya akan mengedit transform lain apa yang lebih cocok untuk slide.
-2. Semalam saya mengubah sprint Backlog (Trello).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (WPA keys).
+2. Semalam saya mengedit transform yang lebih cocok dengan slide.
 3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
