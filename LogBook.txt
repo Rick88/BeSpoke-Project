@@ -30,22 +30,27 @@ Tgl. Pelaksanaan	: 30/5/14 - 02/6/14
 Scrummaster		: Muhammad Reza Hidayat (121111231)
 Item Backlog		: Mencari bahan presentasi & kustomasi awal index.jade
 
+Sprint 3		:
+Tgl. Pelaksanaan	: 03/6/14 - 06/6/14
+Scrummaster		: Edinofri Karizal Caniago (121111354)
+Item Backlog		: Mencari bahan presentasi lanjutan
+
 Progress Harian
 ---------------
-Tgl : 02/06/14
+Tgl : 03/06/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara menjalankan CV & Driver Installation Guide).
-2. Semalam saya akan mencari bahan presentasi lanjutan (Konfigurasi awal penggunaan CV).
-3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Konfigurasi awal (1) Pemakaian CV).
+2. Semalam (Sprint 2) saya mencari bahan presentasi lanjutan (Cara menjalankan CV & Driver Installation Guide).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 Edinofri Karizal Caniago	:
-1. Hari ini saya akan menyisipkan gambar pertama dalam index.jade.
-2. Semalam saya mencoba menyisipkan gambar ke dalam index.jade. (Gagal)
-3. Saya mengalami kendala dalam menyisipkan gambar ke dalam index.jade. (Belum Selesai)
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Konfigurasi awal (2) Pemakaian CV).
+2. Semalam (Sprint 2) saya menyisipkan image dalam index.jade.
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (WPA keys).
-2. Semalam saya mengedit transform yang lebih cocok dengan slide.
-3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Langkah awal penggunaan CV).
+2. Semalam (Sprint 2) saya mencari bahan presentasi lanjutan (WPA keys).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
