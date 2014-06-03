@@ -1,0 +1,105 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    title CommView for WiFi
+
+    // build:css styles/styles.css
+    //- Check out 'src/bower_components/prism/themes/' for available themes
+    link(rel='stylesheet', type='text/css', href='bower_components/prism/themes/prism-tomorrow.css')
+    link(rel='stylesheet', type='text/css', href='styles/main.css')
+    // endbuild
+
+  body
+
+    article
+
+      section
+        h1 CommView for WiFi
+        h2 Network Monitor & Analyzer
+        
+      section
+        ol
+          h3 Isi
+          li
+          li Mengetahui pengertian CV
+          li Memahami kegunaan pemakaian CV
+          li Mempelajari cara pemakaian CV
+          
+      section
+        h3 Apa itu CV?
+        ol
+          li
+          li Aplikasi yang berguna untuk memantau jaringan wireless 802.11 a/b/g/n.
+
+      section
+        h3 Manfaat penggunaan CV
+        ol 
+            li
+            li Memindai jaringan wireless local area yang aktif 
+            li Menampilkan data statistik koneksi : IP addresses, ports, sessions, ...
+            li Laporan traffic koneksi internet secara real time.
+            li Melihat jumlah penggunaan bandwidth
+            li ........
+            
+      section
+        h3 Keunggulan lainnya ...
+        ol
+          li
+          li "Menyalin Network Security Key WiFi".
+
+      section
+        h3 How ?
+        ol
+          li
+          li Mengenkripsi paket yang tertangkap oleh CV.
+          li Crack WEP & WPA keys (WiFi Password) oleh Aircrack.
+          
+      section
+        h3 Pengenalan Singkat WEP & WPA keys
+        ol
+          li
+          li WEP
+          li enkripsi keamanan pertama (1999) pada jaringan wireless.
+          li menggunakan algoritma RC4 serta sebuah key bersifat statis untuk dikenal access point.
+          li terlalu lemah untuk standar keamanan jaringan wireless.
+          li WPA
+          li Penyempurnaan Sistem WEP.
+          li Namun sudah menggunakan Protokol TKIP (<i>Temporal Key Integrity Protocol</i>).
+          
+      section
+        h3 Installasi CV & Aircrack
+        ol
+          li
+          li Unduh kedua software di website resminya
+          li CV bisa diunduh melalui <a href="http://www.tamos.com"><i>tamos.com</i></a> (sekaligus install wireless adapter sesuai dengan OS kalian)
+          li Aircrack dapat diunduh melalui <a href="http://www.aircrack-ng.org"><i>aircrack-ng.org</i></a>
+          
+      section
+        h3 Jalankan Commview for WiFi
+        ol
+          li
+          li Download zip file dari situs resminya.
+          li Extract file dan jalankan setup.exe (install CV).
+          li Akan muncul Driver Installation Guide,
+          li Ikuti perintah yang muncul dan install driver sesuai dengan wireless card anda.
+      
+      section
+        h3 Tampilan Awal Commview for WiFi
+        ol
+          li
+          li <img class='img' src="img/CV1.jpg"></img>
+    // build:js scripts/scripts.js
+    script(src='bower_components/bespoke.js/dist/bespoke.min.js')
+    script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
+    script(src='bower_components/bespoke-touch/dist/bespoke-touch.min.js')
+    script(src='bower_components/bespoke-bullets/dist/bespoke-bullets.min.js')
+    script(src='bower_components/bespoke-scale/dist/bespoke-scale.min.js')
+    script(src='bower_components/bespoke-hash/dist/bespoke-hash.min.js')
+    script(src='bower_components/bespoke-progress/dist/bespoke-progress.min.js')
+    script(src='bower_components/bespoke-state/dist/bespoke-state.min.js')
+    script(src='bower_components/bespoke-forms/dist/bespoke-forms.min.js')
+    script(src='bower_components/prism/prism.js')
+    script(src='scripts/main.js')
+    // endbuild
