@@ -114,16 +114,40 @@ html
       section
         h3 Konfigurasi Awal (2) CV
         ol  
+          li
           li Klik button Capture untuk memulai menangkap paket.
           li Copy Mac Address SSID yang ingin dicrack WEP/WPA keys
           li Pada tab Rules, centang Enable MAC address rules dan Paste Mac Addressnya
         
-      sectio
+      section
         h3 Langkah Berikutnya
         ol 
           li Menunggu
-          li Tunggu samapai paket yang ditangkap mencapai minimal 100000 packet.
+          li Tunggu samapai paket yang ditangkap mencapai minimal 100000 pack
+      
+      section
+        h3 Langkah Awal Penggunaan CV (cont.)
+        ol
+          li
+          li Setelah menangkap lebih kurang 100000 paket
+          li Save log file (bereksistensi.ncf)
           
+      section
+        h3 Konversi File Captured
+        ol
+          li 
+          li Buka Log Viewer dari tab File
+          li Load Commview Log dan buka
+          li Lanjut ke Go to -> Export Logs -> Pilih Wireshark tcpdump format
+          li Save file (bereksistensi .cap)
+          li Digunakan untuk crack key nantinya
+          
+      section
+        h3 Langkah berikutnya
+        ol
+          li Menunggu
+          li Tunggu samapai paket yang ditangkap mencapai minimal 100000 packet.
+
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
     script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
