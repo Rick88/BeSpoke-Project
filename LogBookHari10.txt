@@ -1,0 +1,56 @@
+================================================================
+Nama kelompok 	: SimSimi
+
+Judul Topik 	: Commview For WIFI
+Alamat GitHub	: https://github.com/Rick88/BeSpoke-Project
+Alamat Trello	: https://trello.com/b/3ACs3QRG/bespoke-project
+
+Anggota 1	:
+	Nama	: Erick Sumargo
+	NIM	: 121113665
+
+Anggota 2	:
+	Nama	: Edinofri Karizal Caniago
+	NIM	: 121111354
+
+Anggota 3	:
+	Nama	: M. Reza Hidayat
+	NIM	: 121111231
+==================================================================
+
+SPRINT
+------
+Sprint 1		:
+Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
+Scrummaster		: Erick Sumargo (121113665)
+Item Backlog		: Kustomasi awal template bespoke.js (main.styl)
+
+Sprint 2		:
+Tgl. Pelaksanaan	: 30/5/14 - 02/6/14
+Scrummaster		: Muhammad Reza Hidayat (121111231)
+Item Backlog		: Mencari bahan presentasi & kustomasi awal index.jade
+
+Sprint 3		:
+Tgl. Pelaksanaan	: 03/6/14 - 06/6/14
+Scrummaster		: Edinofri Karizal Caniago (121111354)
+Item Backlog		: Mencari bahan presentasi lanjutan
+
+Progress Harian
+---------------
+Tgl : 04/06/14
+Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Sistem kerja CV).
+2. Semalam saya mencari bahan presentasi lanjutan (Konfigurasi awal (1) Pemakaian CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara Export Log berisi paket).
+2. Semalam saya mencari bahan presentasi lanjutan (Konfigurasi awal (2) Pemakaian CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya hanya akan men-push hasil pencarian presentasi lanjutan semalam (Langkah awal penggunaan CV).
+2. Semalam saya mencari bahan presentasi lanjutan (Langkah awal penggunaan CV).
+3. Saya mengalami kendala dalam conflict file index.jade dan main.styl saat pull dari branch master. (Belum Selesai) 
