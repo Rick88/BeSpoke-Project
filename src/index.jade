@@ -62,30 +62,62 @@ html
         ol
           li
           li WEP
-          li enkripsi keamanan pertama (1999) pada jaringan wireless
-          li menggunakan algoritma RC4 serta sebuah key bersifat statis untuk dikenal access point
+          li enkripsi keamanan pertama (1999) pada jaringan wireless.
+          li menggunakan algoritma RC4 serta sebuah key bersifat statis untuk dikenal access point.
           li terlalu lemah untuk standar keamanan jaringan wireless.
           li WPA
-          li Penyempurnaan Sistem WEP
+          li Penyempurnaan Sistem WEP.
           li Namun sudah menggunakan Protokol TKIP (<i>Temporal Key Integrity Protocol</i>).
+          
       section
         h3 Installasi CV & Aircrack
         ol
           li
           li Unduh kedua software di website resminya
-          li CV bisa diunduh melalui <a href="http://www.tamos.com">'tamos.com'</a> (sekaligus install wireless adapter sesuai dengan OS kalian)
-          li Aircrack dapat diunduh melalui <a href="http://www.aircrack-ng.org">'aircrack-ng.org'</a>
+          li CV bisa diunduh melalui <a href="http://www.tamos.com"><i>tamos.com</i></a> (sekaligus install wireless adapter sesuai dengan OS kalian)
+          li Aircrack dapat diunduh melalui <a href="http://www.aircrack-ng.org"><i>aircrack-ng.org</i></a>
           
       section
         h3 Demo Penggunaan Commview for WiFi.
         ul
           li test
+      
       section
         h3 Langkah Berikutya
         ol
           li Menunggu
           li Tunggu samapai paket yang ditangkap mencapai minimal 100000 packet.
         
+        h3 Jalankan Commview for WiFi
+        ol
+          li
+          li Download zip file dari situs resminya.
+          li Extract file dan jalankan setup.exe (install CV).
+          li Akan muncul Driver Installation Guide,
+          li Ikuti perintah yang muncul dan install driver sesuai dengan wireless card anda.
+      
+      section
+        h3 Tampilan Awal Commview for WiFi
+        ol
+          li
+          li <img class='img' src="img/CV1.jpg"></img>
+          
+      section
+        h3 Konfigurasi Awal (1) CV
+        ol
+          li
+          li Lakukan konfigurasi awal CV dalam menangkap paket :
+          li Enable auto saving pada logging tab
+          li Set ukuran Directory Maximum sampai 2000
+          li Set ukuran Average Log File sampai 20	
+
+      section
+        h3 Konfigurasi Awal (2) CV
+        ol  
+          li Klik button Capture untuk memulai menangkap paket.
+          li Copy Mac Address SSID yang ingin dicrack WEP/WPA keys
+          li Pada tab Rules, centang Enable MAC address rules dan Paste Mac Addressnya
+          
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
     script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
