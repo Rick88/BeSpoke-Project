@@ -37,20 +37,20 @@ Item Backlog		: Mencari bahan presentasi lanjutan
 
 Progress Harian
 ---------------
-Tgl : 04/06/14
+Tgl : 05/06/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Sistem kerja CV).
-2. Semalam saya mencari bahan presentasi lanjutan (Konfigurasi awal (1) Pemakaian CV).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Concatenate Logs).
+2. Semalam saya mencari bahan presentasi (Sistem Kerja CV).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 Edinofri Karizal Caniago	:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara Export Log berisi paket).
-2. Semalam saya mencari bahan presentasi lanjutan (Konfigurasi awal (2) Pemakaian CV).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Ilustrasi Concatenate Logs).
+2. Semalam saya mencari bahan presentasi lanjutan (Cara Export Log berisi paket).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya hanya akan men-push hasil pencarian presentasi lanjutan semalam (Langkah awal penggunaan CV).
-2. Semalam saya mencari bahan presentasi lanjutan (Langkah awal penggunaan CV).
-3. Saya mengalami kendala dalam conflict file index.jade dan main.styl saat pull dari branch master. (Belum Selesai) 
+1. Hari ini saya akan mencari bahan presentasi (Gambar Captured Paket).
+2. Hari ini saya hanya akan men-push hasil pencarian presentasi lanjutan semalam (Langkah awal penggunaan CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
