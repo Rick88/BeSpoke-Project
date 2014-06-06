@@ -37,20 +37,19 @@ Item Backlog		: Mencari bahan presentasi lanjutan
 
 Progress Harian
 ---------------
-Tgl : 05/06/14
+Tgl : 06/06/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Concatenate Logs).
-2. Semalam saya mencari bahan presentasi (Sistem Kerja CV).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara menjalankan Aircrack-ng).
+2. Semalam saya mencari bahan presentasi lanjutan (Concatenate Logs).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 Edinofri Karizal Caniago	:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Ilustrasi Concatenate Logs).
-2. Semalam saya mencari bahan presentasi lanjutan (Cara Export Log berisi paket).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Pengertian & Kegunaan Aircrack-ng).
+2. Semalam saya mencari bahan presentasi lanjutan (Ilustrasi Concatenate Logs).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya akan mencari bahan presentasi (Gambar Captured Paket).
-2. Hari ini saya hanya akan men-push hasil pencarian presentasi lanjutan semalam (Langkah awal penggunaan CV).
-3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Aircrack-ng).
+2. Semalam saya tidak push apapun sebab saya mengalami masalah dengan laptop.
