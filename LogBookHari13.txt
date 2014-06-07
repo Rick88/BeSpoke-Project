@@ -35,21 +35,27 @@ Tgl. Pelaksanaan	: 03/6/14 - 06/6/14
 Scrummaster		: Edinofri Karizal Caniago (121111354)
 Item Backlog		: Mencari bahan presentasi lanjutan
 
+Sprint 4		:
+Tgl. Pelaksanaan	: 07/6/14 - 08/6/14
+Scrummaster		: Erick Sumargo (121113665)
+Item Backlog		: Mencari bahan presentasi lanjutan & edit index.jade
+
 Progress Harian
 ---------------
-Tgl : 06/06/14
+Tgl : 07/06/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara menjalankan Aircrack-ng).
-2. Semalam saya mencari bahan presentasi lanjutan (Concatenate Logs).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Faktor kegagalan Crack key).
+2. Semalam saya mencari bahan presentasi lanjutan (Cara menjalankan Aircrack-ng).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 Edinofri Karizal Caniago	:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Pengertian & Kegunaan Aircrack-ng).
-2. Semalam saya mencari bahan presentasi lanjutan (Ilustrasi Concatenate Logs).
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Cracked Key).
+2. Semalam saya mencari bahan presentasi lanjutan (Pengertian & Kegunaan Aircrack-ng).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Aircrack-ng).
-2. Semalam saya tidak push apapun sebab saya mengalami masalah dengan laptop.
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Uncracked Key).
+2. Semalam saya mencari bahan presentasi lanjutan (Tampilan Aircrack-ng).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
