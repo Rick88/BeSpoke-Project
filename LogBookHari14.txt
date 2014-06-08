@@ -42,20 +42,20 @@ Item Backlog		: Mencari bahan presentasi lanjutan & edit index.jade
 
 Progress Harian
 ---------------
-Tgl : 07/06/14
+Tgl : 08/06/14
 Daily Scrum
 
 Erick Sumargo			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Faktor kegagalan Crack key).
-2. Semalam saya mencari bahan presentasi lanjutan (Cara menjalankan Aircrack-ng).
+1. Hari ini saya akan menulis rangkuman isi slide (Commview for WiFi & Aircrack-ng) dan mengedit tampilan format seluruh isi slide.
+2. Semalam saya mencari bahan presentasi lanjutan (Faktor kegagalan Crack key).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 Edinofri Karizal Caniago	:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Cracked Key).
-2. Semalam saya mencari bahan presentasi lanjutan (Pengertian & Kegunaan Aircrack-ng).
+1. Hari ini saya hanya akan pull hasil akhir editan index.jade & main.styl dari Scrummaster.
+2. Semalam saya mencari bahan presentasi lanjutan (Tampilan Cracked Key).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
 
 M. Reza Hidayat			:
-1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Uncracked Key).
-2. Semalam saya mencari bahan presentasi lanjutan (Tampilan Aircrack-ng).
+1. Hari ini saya hanya akan pull hasil akhir editan index.jade & main.styl dari Scrummaster.
+2. Semalam saya mencari bahan presentasi lanjutan (Tampilan Uncracked Key).
 3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
