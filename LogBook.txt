@@ -1,0 +1,330 @@
+===========================================================================================================================
+Nama kelompok 	: SimSimi
+
+Judul Topik 	: Commview For WIFI & Aircrack-ng
+Alamat GitHub	: https://github.com/Rick88/BeSpoke-Project
+Alamat Trello	: https://trello.com/b/3ACs3QRG/bespoke-project
+
+Anggota 1	:
+	Nama	: Erick Sumargo			(User Name : Rick88)
+	NIM	: 121113665
+
+Anggota 2	:		
+	Nama	: Edinofri Karizal Caniago	(User Name : edinopli)
+	NIM	: 121111354
+
+Anggota 3	:
+	Nama	: M. Reza Hidayat		(User Name : reza145)
+	NIM	: 121111231
+===========================================================================================================================
+
+SPRINT
+------
+Sprint 1		:
+Tgl. Pelaksanaan	: 26/05/14 - 29/05/14
+Scrummaster		: Erick Sumargo (121113665)
+Item Backlog		: Kustomasi awal template bespoke.js (main.styl)
+
+Sprint 2		:
+Tgl. Pelaksanaan	: 30/05/14 - 02/06/14
+Scrummaster		: Muhammad Reza Hidayat (121111231)
+Item Backlog		: Mencari bahan presentasi & kustomasi awal index.jade
+
+Sprint 3		:
+Tgl. Pelaksanaan	: 03/06/14 - 06/06/14
+Scrummaster		: Edinofri Karizal Caniago (121111354)
+Item Backlog		: Mencari bahan presentasi lanjutan
+
+Sprint 4		:
+Tgl. Pelaksanaan	: 07/06/14 - 08/06/14
+Scrummaster		: Erick Sumargo (121113665)
+Item Backlog		: Mencari bahan presentasi lanjutan & edit index.jade
+===========================================================================================================================
+                                                         Progress Harian
+                                                         ---------------
+                                                          Tgl : 26/05/14
+                                                           Daily Scrum
+
+Erick Sumargo			: (Revisi)
+1. Hari ini saya akan memulai instalasi software pendukung presentasi dengan menggunakan teknologi BeSpoke.js
+   berupa : Node.js dan Git.
+
+Edinofri Karizal Caniago	: (Revisi)
+1. Hari ini saya akan memulai instalasi software pendukung presentasi berupa : Node.js, Git, dan Bespoke.js. 
+
+M. Reza Hidayat			: (Revisi)
+1. Hari ini saya akan mulai menginstal sebuah software pendukung presentasi saja yaitu Git.
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 27/05/14
+                                                           Daily Scrum
+
+Erick Sumargo			: (Revisi)
+1. Hari ini saya akan memulai menginstalasi software pendukung presentasi lainnya (generator-bespoke dan source tree).
+2. Semalam saya mengerjakan bagian penginstalan software pendukung presentasi (Node.js, git).
+3. Saya tidak memiliki kendala atas pengerjaan bagian sprint backlog semalam. (Selesai)
+
+Edinofri Karizal Caniago	: (Revisi)
+1. Hari ini saya akan lanjut menginstall software pendukung presentasi lainnya (Source Tree).
+2. Semalam saya menginstall software pendukung presentasi (Node.js, git, bespoke) dan saya tidak memilki kendala untuk hal tersebut. (Selesai)
+3. Saya tidak memiliki kendala atas pengerjaan bagian sprint backlog semalam. (Selesai)
+
+M. Reza Hidayat			: (Revisi)
+1. Hari ini saya akan lanjut mengerjakan instalasi Node.js, generator-bespoke, dan Source tree.
+2. Semalam saya mengerjakan bagian penginstalan software pendukung presentasi (Git).
+3. Saya memiliki sedikit kendala dalam menginstall git dalam laptop dimana saya salah memilih cara mengeksekusi git dari laptop. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 28/05/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan push template bespoke awal ke github untuk dapat diclone dan dikerjakan masing-masing oleh anggota.
+2. Semalam saya mengerjakan bagian penginstalan software pendukung presentasi (generator-bespoke dan source tree).
+3. Saya tidak memiliki kendala atas pengerjaan bagian sprint backlog semalam. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mengkustomasi desain tampilan awal bespoke.
+2. Semalam saya menginstall software pendukung presentasi (Source Tree).
+3. Saya tidak memiliki kendala atas pengerjaan bagian sprint backlog semalam. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mencari bahan topik presentasi dan push ke github.
+2. Semalam saya mengerjakan bagian penginstalan software pendukung presentasi (Node.js, generator-bespoke, dan Source tree).
+3. Saya sama sekali tidak memiliki kendala akan pengerjaan sprint backlog semalam. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 29/05/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mendesain lanjutan dari jenis transform slide dan pemilihan jenis font yang akan dipakai.
+2. Semalam saya push template awal (default) main.styl dkk. ke repository github.
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam.
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mendesain lanjutan dari jenis transform slide
+2. Semalam saya mendesain pertama kali main.styl dan push.
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam.
+
+M. Reza Hidayat			:
+1. Hari ini saya akan memilih jenis font yang akan dipakai.
+2. Semalam saya mencari bahan presentasi.
+3. Saya memiliki kendala dalam perihal push bahan presentasi ke repository. (Belum Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 30/05/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi (Pengertian) dan mengedit kedalam index.jade.
+2. Semalam saya mendesain lanjutan dari jenis transform slide dan font (Sprint sebelumnnya).
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi (Manfaat) dan mengedit kedalam index.jade.
+2. Semalam saya mendesain lanjutan dari jenis transform slide (Sprint sebelumnnya).
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mencari bahan presentasi [Manfaat lain (Hack)] dan mengedit kedalam index.jade.
+2. Semalam saya menentukan jenis font dipakai.
+3. Saya tidak memiliki kendala dalam pelaksanaan sprint semalam. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 31/05/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi (Instalasi software CV) dan mengedit kedalam index.jade.
+2. Semalam saya mencari bahan presentasi(pengertian).
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi (Instalasi software AirCrack) dan mengedit kedalam index.jade.
+2. Semalam saya mencari bahan presentasi (Manfaat pengggunaan CV).
+3. Saya tidak ada mengalami kendala dalam pelaksanaan sprint semalam. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mengubah sprint Backlog (Trello) yang akan sedang dikerjakan.
+2. Semalam saya mencari bahan presentasi (Manfaat lain [Hacking]).
+3. Saya taidak memiliki kendala dalam pelaksanaan sprint semalam. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 01/06/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Konfigurasi awal penggunaan CV).
+2. Semalam saya menncari bahan presentasi (Instalasi software CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan menyisipkan gambar pertama dalam index.jade.
+2. Semalam saya mencari bahan presentasi (Instalasi software AirCrack) dan mengedit kedalam index.jade.
+3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mengedit transform lain apa yang lebih cocok untuk slide.
+2. Semalam saya mengubah sprint Backlog (Trello).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 02/06/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara menjalankan CV & Driver Installation Guide).
+2. Semalam saya akan mencari bahan presentasi lanjutan (Konfigurasi awal penggunaan CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan menyisipkan gambar pertama dalam index.jade.
+2. Semalam saya mencoba menyisipkan gambar ke dalam index.jade. (Gagal)
+3. Saya mengalami kendala dalam menyisipkan gambar ke dalam index.jade. (Belum Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (WPA keys).
+2. Semalam saya mengedit transform yang lebih cocok dengan slide.
+3. Saya tidak mengalami kendala dalam pengerjaan sprint semalam. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 03/06/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Konfigurasi awal (1) Pemakaian CV).
+2. Semalam (Sprint 2) saya mencari bahan presentasi lanjutan (Cara menjalankan CV & Driver Installation Guide).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Konfigurasi awal (2) Pemakaian CV).
+2. Semalam (Sprint 2) saya menyisipkan image dalam index.jade.
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Langkah awal penggunaan CV).
+2. Semalam (Sprint 2) saya mencari bahan presentasi lanjutan (WPA keys).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 04/06/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Sistem kerja CV).
+2. Semalam saya mencari bahan presentasi lanjutan (Konfigurasi awal (1) Pemakaian CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara Export Log berisi paket).
+2. Semalam saya mencari bahan presentasi lanjutan (Konfigurasi awal (2) Pemakaian CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya hanya akan men-push hasil pencarian presentasi lanjutan semalam (Langkah awal penggunaan CV).
+2. Semalam saya mencari bahan presentasi lanjutan (Langkah awal penggunaan CV).
+3. Saya mengalami kendala dalam conflict file index.jade dan main.styl saat pull dari branch master. (Belum Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 05/06/14
+                                                           Daily Scrum 
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Concatenate Logs).
+2. Semalam saya mencari bahan presentasi (Sistem Kerja CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Ilustrasi Concatenate Logs).
+2. Semalam saya mencari bahan presentasi lanjutan (Cara Export Log berisi paket).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mencari bahan presentasi (Gambar Captured Paket).
+2. Hari ini saya hanya akan men-push hasil pencarian presentasi lanjutan semalam (Langkah awal penggunaan CV).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 06/06/14
+                                                           Daily Scrum 
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Cara menjalankan Aircrack-ng).
+2. Semalam saya mencari bahan presentasi lanjutan (Concatenate Logs).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Pengertian & Kegunaan Aircrack-ng).
+2. Semalam saya mencari bahan presentasi lanjutan (Ilustrasi Concatenate Logs).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Aircrack-ng).
+2. Semalam saya tidak push apapun sebab saya mengalami masalah dengan laptop.
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 07/06/14
+                                                           Daily Scrum 
+
+Erick Sumargo			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Faktor kegagalan Crack key).
+2. Semalam saya mencari bahan presentasi lanjutan (Cara menjalankan Aircrack-ng).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Cracked Key).
+2. Semalam saya mencari bahan presentasi lanjutan (Pengertian & Kegunaan Aircrack-ng).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya akan mencari bahan presentasi lanjutan (Tampilan Uncracked Key).
+2. Semalam saya mencari bahan presentasi lanjutan (Tampilan Aircrack-ng).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+===========================================================================================================================
+							 Progress Harian
+                                                         ---------------
+                                                          Tgl : 08/06/14
+                                                           Daily Scrum
+
+Erick Sumargo			:
+1. Hari ini saya akan menulis rangkuman isi slide (Commview for WiFi & Aircrack-ng) dan mengedit tampilan format seluruh isi slide.
+2. Semalam saya mencari bahan presentasi lanjutan (Faktor kegagalan Crack key).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+Edinofri Karizal Caniago	:
+1. Hari ini saya hanya akan pull hasil akhir editan index.jade & main.styl dari Scrummaster.
+2. Semalam saya mencari bahan presentasi lanjutan (Tampilan Cracked Key).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai)
+
+M. Reza Hidayat			:
+1. Hari ini saya hanya akan pull hasil akhir editan index.jade & main.styl dari Scrummaster.
+2. Semalam saya mencari bahan presentasi lanjutan (Tampilan Uncracked Key).
+3. Saya tidak mengalami kendala dalam pengerjaan sprint sebelumnya. (Selesai) 
+
+===========================================================================================================================
