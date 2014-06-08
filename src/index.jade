@@ -16,74 +16,74 @@ html
     article
 
       section
-        h1 CommView for WiFi
+        h1 CommView for WiFi & Aircrack-ng
         h2 Network Monitor & Analyzer
         
       section
-        ol
+        ol.isi
           h3 Isi
           li
-          li Mengetahui pengertian CV
-          li Memahami kegunaan pemakaian CV
-          li Mempelajari cara pemakaian CV
+          li Memahami kegunaan pemakaian CV & Aircrack-ng.
+          li Mempelajari cara pemakaian CV & Aircrack-ng.
           
       section
-        h3 Apa itu CV?
-        ol
+        ol.slide1
+          h3 Apa itu CV?
           li
           li Aplikasi yang berguna untuk memantau jaringan wireless 802.11 a/b/g/n.
+        ol.s1
+          li <i>- Website resmi CommView for WiFi</i>
 
       section
-        h3 Manfaat penggunaan CV
-        ol 
+        ol.slide2
+            h3 Beberapa Kegunaan CV
             li
-            li Memindai jaringan wireless local area yang aktif 
+            li Memindai jaringan wireless local area yang aktif. 
             li Menampilkan data statistik koneksi : IP addresses, ports, sessions, ...
             li Laporan traffic koneksi internet secara real time.
-            li Melihat jumlah penggunaan bandwidth
+            li Melihat jumlah penggunaan bandwidth.
             li ........
             
       section
-        h3 Keunggulan lainnya ...
-        ol
+        ol.slide3
+          h3 Kegunaan Lainnya ...
           li
-          li "Menyalin Network Security Key WiFi".
+          li <i>"Menyalin Network Security Key WiFi"</i>.
+        ol.s3
+          li <i>- mods-n-hacks.wonderhowto.com</i>
+          li <i>- tech-geeks007.blogspot.com</i>
 
       section
-        h3 How ?
         ol
+          h3 Bagaimana Prosesnya?
           li
-          li Mengenkripsi paket yang tertangkap oleh CV.
-          li Crack WEP & WPA keys (WiFi Password) oleh Aircrack.
+          li Mendekripsi paket data <i>SSID</i> yang tertangkap oleh CV.
+          li Crack WEP & WPA keys (WiFi Password) oleh Aircrack-ng.
           
       section
-        h3 Pengenalan Singkat WEP & WPA keys
         ol
+          h3 Pengenalan Singkat WEP & WPA Keys
           li
           li WEP
-          li enkripsi keamanan pertama (1999) pada jaringan wireless.
-          li menggunakan algoritma RC4 serta sebuah key bersifat statis untuk dikenal access point.
-          li terlalu lemah untuk standar keamanan jaringan wireless.
+          li Enkripsi keamanan pertama (1999) pada jaringan wireless.
+          li Menggunakan algoritma RC4 serta sebuah key bersifat statis untuk dikenal access point.
+          li Terlalu lemah untuk standar keamanan jaringan wireless.
           li WPA
           li Penyempurnaan Sistem WEP.
           li Namun sudah menggunakan Protokol TKIP (<i>Temporal Key Integrity Protocol</i>).
           
       section
-        h3 Installasi CV & Aircrack
-        ol
+        ol.slide6
+          h3 Persiapan
           li
-          li Unduh kedua software di website resminya
-          li CV bisa diunduh melalui <a href="http://www.tamos.com"><i>tamos.com</i></a> (sekaligus install wireless adapter sesuai dengan OS kalian)
-          li Aircrack dapat diunduh melalui <a href="http://www.aircrack-ng.org"><i>aircrack-ng.org</i></a>
-          
+          li Unduh kedua software (CommView for WiFi & Aircrack-ng) di website resminya :
+        ol.s6
+          li 1. CV bisa diunduh melalui <a href="http://www.tamos.com"><i>tamos.com</i>.</a> (sekaligus install driver wireless adapter)
+          li 2. Aircrack-ng dapat diunduh melalui <a href="http://www.aircrack-ng.org"><i>aircrack-ng.org</i>.</a>
+         
       section
-        h3 Demo Penggunaan Commview for WiFi.
-        ul
-          li test
-          
-      section
-        h3 Jalankan Commview for WiFi
         ol
+          h3 Instalasi Commview for WiFi
           li
           li Download zip file dari situs resminya.
           li Extract file dan jalankan setup.exe (install CV).
@@ -97,77 +97,74 @@ html
           li <img class='img' src="img/CV1.jpg"></img>
           
       section
-        h3 Konfigurasi Awal (1) CV
-        ol
+        ol.slide9
+          h3 Konfigurasi Awal (1) CV
           li
           li Lakukan konfigurasi awal CV dalam menangkap paket :
-          li Enable auto saving pada logging tab
-          li Set ukuran Directory Maximum sampai 2000
-          li Set ukuran Average Log File sampai 20	
+        ol.s9
+          li 1. Berikan tanda centang pada bagian <i>Auto-saving</i> dalam <i>Logging</i> tab.
+          li 2. Set ukuran <i>Maximum Directory Size</i> dengan 2000.
+          li 3. Set ukuran <i>Average Log File Size</i> dengan 20.	
 
       section
-        h3 Konfigurasi Awal (2) CV
         ol  
+          h3 Konfigurasi Awal (2) CV
           li
-          li Klik button Capture untuk memulai menangkap paket.
-          li Copy Mac Address SSID yang ingin dicrack WEP/WPA keys
-          li Pada tab Rules, centang Enable MAC address rules dan Paste Mac Addressnya
+          li Klik button Capture untuk memulai menangkap paket data.
+          li Copy Mac Address SSID yang ingin dicrack WEP/WPA keys-nya.
+          li Pada tab Rules, berikan tanda centang Enable MAC address rules dan Paste Mac Addressnya.
         
       section
-        h3 Langkah Berikutnya
         ol 
-          li Menunggu ...
+          h3 Langkah Penggunaan Berikutnya?
+          li <i>Menunggu ...</i>
           li Tunggu sampai paket yang ditangkap mencapai minimal 100000 paket.
+          li Save Log File (bereksistensi *.ncf).
           
       section
         h3 Gambar Paket Captured
         ol
           li
           li <img class='img' src="img/viewer.png"></img>
-      
-      section
-        h3 Langkah Awal Penggunaan CV (cont.)
-        ol
-          li
-          li Setelah menangkap lebih kurang 100000 paket
-          li Save log file (bereksistensi.ncf)
           
       section
-        h3 Konversi File Captured
-        ol
+        ol.slide13
+          h3 Konversi File Captured 
           li 
-          li Buka Log Viewer dari tab File
-          li Load Commview Log dan buka
-          li Lanjut ke Go to -> Export Logs -> Pilih Wireshark tcpdump format
-          li Save file (bereksistensi .cap)
-          li Digunakan untuk crack key nantinya
+          li 1. Buka Log Viewer dari tab File.
+          li 2. Load Commview Log.
+          li 3. Lanjut ke Go to -> Export Logs -> Pilih Wireshark tcpdump format.
+          li 4. Save file (bereksistensi *.cap)
+        ol.s13
+          li Digunakan untuk crack WEP keys nantinya.
           
       section
-        h3 Concatenate Logs
         ol
+          h3 Concatenate Logs
           li
           li Memiliki fungsi menggabungkan logs yang sudah disimpan.
           li Bertujuan menambah paket lama atau baru yang telah ditangkap.
-          li Cocok digunakan apabila frekuensi dalam mencapture paket yang singkat.
+          li Cocok digunakan apabila frekuensi dalam men-capture paket yang singkat.
+          
       section
         h3 Ilustrasi Concatenate Logs
         ol
           li
           li <img class='img' src='img/IC_Logs.jpg'></img>
       
-      section
-        h3 Pengertian Aircrack-ng
+      section 
         ol
+          h3 Pengertian Aircrack-ng
           li
           li Program yang khusus dikembangkan untuk crack WEP & WPA keys.
           li Tool yang paling powerful diantara Tool cracking WEP keys.
           
       section
-        h3 Installasi Aircrack-ng
+        h3 Instalasi Aircrack-ng
         ol
           li
-          li Install zip file Aircrack-ng dari website resminya.
-          li Extract file dan pada folder bin jalankan Aircrack-ng GUI.exe.
+          li Download zip file Aircrack-ng dari website resminya.
+          li Extract file dan pada folder bin, jalankan Aircrack-ng GUI.exe.
 
       section
         h3 Tampilan awal Aircrack-ng
@@ -176,50 +173,37 @@ html
           li <img class='img' src="img/view.jpg"></img>
        
       section
-        h3 Cracking Key
-        ol
+        ol.slide19
+          h3 Cracking WEP Keys
           li
-          li Pada Aircrack-ng GUI, pilih Key size 64 bits.
-          li Browse file .cap yang sudah disimpan berupa hasil konversi paket.
-          li Klik launch dan pada command line, input 1 pada index number yang diminta.
-          li Hasil cracking key selesai.
+          li 1. Pada Aircrack-ng GUI, pilih Key size 64 bits.
+          li 2. Browse file dengan eksistensi *.cap yang sudah disimpan berupa hasil konversi paket data.
+          li 3. Klik launch dan pada command line, input 1 pada index number yang diminta.
+          li 4. Hasil cracking WEP keys selesai.
           
       section
-        h3 Faktor Kegagalan Crack Key
         ol
+          h3 Tampilan Cracked WEP Keys
+          li
+          li <img src="img/gambar.jpg"></img>
+      
+      section
+        ol
+          h3 Tampilan Uncracked WEP Keys
+          li
+          li <img src="img/view1.jpg"></img>
+      section
+        ol
+          h3 Faktor Kegagalan Crack WEP Keys
           li
           li Faktor Utama
-          li Sinyal paket dari jaringan wireless yang ditangkap terlalu rendah.
+          li Sinyal paket dari jaringan wireless yang ditangkap tergolong rendah.
           li Faktor Pendukung
           li CV yang terinstall masih bersifat Evaluation Version.
-          li Solusi :
-          li 1. Tunggu sampai banyak pengguna memakai jaringan wireless tersebut.
-          li 2. Beli versi CV full version.
           
       section
-        h3 Uncracked Keys
         ol
-          li
-          li <img class='img' src="img/view1.jpg"></img>
-
-      section
-        h3 Tampilan Cracked Keys
-        ol
-          li
-          li <img class='img' src='img/gambar.jpg'></img>
-          
-      section
-        h3 Rangkuman Langkah Crack WEP Keys
-        ol
-          li
-          li Jalankan CV serta lakukan konfigurasi awal & start capture
-          li Save Log File (Concatenate Logs) dan kemudian konversikan ke .cap
-          li Buka Aircrack-ng, lakukan konfigurasi awal dan browse file .cap hasil konversi
-          li Masukkan 1 pada index number yang diminta.
-          li (NB : Ulangi langkah di atas bila masih gagal dalam Crack WEP Keys.)
-          
-      section
-        h3 Pertanyaan?
+          h3 Pertanyaan?
         
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
